@@ -19,6 +19,7 @@ Steps to run :
 
 
 URL: [http://localhost:8000] to view it in the browser.
+(Add atleast )
 
 
 Tech Details:
@@ -58,7 +59,8 @@ Front End -> Port 8000   (http://localhost:8000)
 
 2. Add button
 
-   a. To add the card - Disable until the cardnumber is verified as per luhn algorithm.
+   a. To add the card - Disabled until the cardnumber is verified as per luhn algorithm. 
+   (Note: on second addtion onwards, entries will apear in real time)
 
    b. Balance will appear as £0 for every new Card.
 
