@@ -1,13 +1,5 @@
 # PublicisSapient
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:8000] to view it in the browser.
 
 Steps to run :
 1. Start the backend server
@@ -24,6 +16,10 @@ Steps to run :
    a. Go to front-end folder
    b. Run : npm start
    (This will start the React UI)
+
+
+URL: [http://localhost:8000] to view it in the browser.
+
 
 Tech Details:
 
@@ -55,7 +51,9 @@ Back End -> Port 8080
 
 Get -> http://localhost:8080/getAll
 
-Front End -> Port 8000
+
+
+Front End -> Port 8000   (http://localhost:8000)
 1. React JS
 
 2. Add button
